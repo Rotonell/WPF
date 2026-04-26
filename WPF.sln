@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid\Grid.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{9218AA1C-713C-4F75-A96C-472DD9ED82BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "ListBox\ListBox.csproj", "{0EEA9BE5-3994-4930-81FA-CA88A5701557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuBar", "MenuBar\MenuBar.csproj", "{9B0E8B02-E94F-4A60-818C-54EF63BFF95A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9218AA1C-713C-4F75-A96C-472DD9ED82BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9218AA1C-713C-4F75-A96C-472DD9ED82BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9218AA1C-713C-4F75-A96C-472DD9ED82BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEA9BE5-3994-4930-81FA-CA88A5701557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEA9BE5-3994-4930-81FA-CA88A5701557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEA9BE5-3994-4930-81FA-CA88A5701557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEA9BE5-3994-4930-81FA-CA88A5701557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0E8B02-E94F-4A60-818C-54EF63BFF95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0E8B02-E94F-4A60-818C-54EF63BFF95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0E8B02-E94F-4A60-818C-54EF63BFF95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0E8B02-E94F-4A60-818C-54EF63BFF95A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
